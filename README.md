@@ -1,2 +1,2 @@
-# Linux_terminal_clone
+# Linux Terminal Clone
 terminal clone supporting internal and external commands.
